@@ -4,7 +4,7 @@ import os
 import time
 
 
-HOST = '147.139.175.194'  
+HOST = '147.139.172.85'  
 PORT = 50279
 
 #HOST2 = '149.129.247.202'  
